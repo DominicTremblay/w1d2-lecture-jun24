@@ -21,7 +21,7 @@ Level 3- Questions career
 
 Level 4- Questions life
 
-[Michael Jordan's Quote](./quote)
+[Michael Jordan's Quote](./quote.md)
 
 ## Curriculum Overview
 
